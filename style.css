@@ -1,0 +1,16 @@
+body 
+{
+background-color: yellow;
+}
+
+#sc
+{
+font-size: 25px;
+float:left;
+}
+
+#ti
+{
+    font-size: 25px;
+    float:right;
+}
